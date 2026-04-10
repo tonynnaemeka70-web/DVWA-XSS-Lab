@@ -8,15 +8,15 @@ Stored Cross-Site Scripting (XSS) vulnerabilities.
 
 Key Highlights
 
- Exploited Reflected XSS at Low, Medium, and High security levels
+1. Exploited Reflected XSS at Low, Medium, and High security levels
 
- Bypassed filters using case manipulation and alternative HTML tags
+2. Bypassed filters using case manipulation and alternative HTML tags
  
- Demonstrated Stored XSS persistence in guestbook entries
+3. Demonstrated Stored XSS persistence in guestbook entries
  
- Analyzed DVWA backend code to understand flawed sanitization
+ 4. Analyzed DVWA backend code to understand flawed sanitization
  
- Documented findings with screenshots and payloads
+5.  Documented findings with screenshots and payloads
 
  
  Skills Demonstrated
@@ -43,4 +43,4 @@ How to setup this project
    
 2.  Set up DVWA in a local environment
    
-3. Follow the steps in `docs/CrossSiteScriptingLab.pdf`
+3. Follow the steps in `docs/CrossSiteScriptingLab'
