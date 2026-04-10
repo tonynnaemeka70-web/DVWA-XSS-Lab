@@ -43,4 +43,4 @@ How to setup this project
    
 2.  Set up DVWA in a local environment
    
-3. Follow the steps in `docs/CrossSiteScriptingLab'
+3. Follow the steps in `docs/CrossSiteScriptingLab pdf'
