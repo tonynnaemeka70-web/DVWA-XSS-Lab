@@ -36,11 +36,5 @@ This project shows practical ability to identify, exploit, and explain web vulne
 
 in penetration testing, red teaming, and secure development.
 
-
-How to setup this project
-
-1. Clone this repo
-   
-2.  Set up DVWA in a local environment
-   
-3. Follow the steps in `docs/CrossSiteScriptingLab pdf'
+Documentation
+Full lab report available here: [Cross Site Scripting Lab](docs/CrossSiteScriptingLab.pdf)
