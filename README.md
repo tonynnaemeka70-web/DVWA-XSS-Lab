@@ -40,6 +40,7 @@ Documentation
 
 Full lab report available in the: [Cross Site Scripting Lab](docs/CrossSiteScriptingLab.pdf)
 
+
 Screenshots
 
 Key exploit demonstrations are available in the `screenshots/` folder.
