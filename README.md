@@ -38,4 +38,5 @@ in penetration testing, red teaming, and secure development.
 
 Documentation
 
-Full lab report available here: (docs/CrossSiteScriptingLab.pdf)
+Full lab report available here: [Cross Site Scripting Lab](docs/CrossSiteScriptingLab.pdf)
+
