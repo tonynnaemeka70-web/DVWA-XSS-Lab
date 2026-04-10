@@ -1,8 +1,8 @@
  DVWA XSS Exploitation Lab
 
 Overview
-This project demonstrates penetration testing techniques against Damn Vulnerable Web Application (DVWA), focusing on Reflected and 
 
+This project demonstrates penetration testing techniques against Damn Vulnerable Web Application (DVWA), focusing on Reflected and 
 Stored Cross-Site Scripting (XSS) vulnerabilities.
 
 
