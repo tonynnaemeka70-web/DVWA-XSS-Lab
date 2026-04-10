@@ -37,8 +37,7 @@ This project shows practical ability to identify, exploit, and explain web vulne
 in penetration testing, red teaming, and secure development.
 
 Documentation
-
-Full lab report available in the: [Cross Site Scripting Lab](docs/CrossSiteScriptingLab.pdf)
+Full lab report available here: [Cross Site Scripting Lab](docs/CrossSiteScriptingLab.pdf)
 
 
 Screenshots
