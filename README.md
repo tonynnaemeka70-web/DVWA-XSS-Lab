@@ -1,2 +1,46 @@
-# DVWA-XSS-Lab
-Hands-on penetration testing lab using DVWA to demonstrate reflected and stored XSS vulnerabilities across multiple security levels.
+ DVWA XSS Exploitation Lab
+
+Overview
+This project demonstrates penetration testing techniques against Damn Vulnerable Web Application (DVWA), focusing on Reflected and 
+
+Stored Cross-Site Scripting (XSS) vulnerabilities.
+
+
+Key Highlights
+
+ Exploited Reflected XSS at Low, Medium, and High security levels
+
+ Bypassed filters using case manipulation and alternative HTML tags
+ 
+ Demonstrated Stored XSS persistence in guestbook entries
+ 
+ Analyzed DVWA backend code to understand flawed sanitization
+ 
+ Documented findings with screenshots and payloads
+
+ 
+ Skills Demonstrated
+ 
+Web application penetration testing
+
+Secure coding analysis
+
+Exploit development
+
+OWASP Top 10 awareness
+
+
+Why It Matters
+
+This project shows practical ability to identify, exploit, and explain web vulnerabilities — a critical skill for cybersecurity roles 
+
+in penetration testing, red teaming, and secure development.
+
+
+How to setup this project
+
+1. Clone this repo
+   
+2.  Set up DVWA in a local environment
+   
+3. Follow the steps in `docs/CrossSiteScriptingLab.pdf`
