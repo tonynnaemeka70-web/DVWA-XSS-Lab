@@ -21,13 +21,13 @@ Key Highlights
  
  Skills Demonstrated
  
-Web application penetration testing
+1. Web application penetration testing
 
-Secure coding analysis
+2. Secure coding analysis
 
-Exploit development
+3. Exploit development
 
-OWASP Top 10 awareness
+4. OWASP Top 10 awareness
 
 
 Why It Matters
