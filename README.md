@@ -2,48 +2,35 @@
 
 Overview
 
-This project demonstrates penetration testing techniques against Damn Vulnerable Web Application (DVWA), focusing on Reflected and 
-Stored Cross-Site Scripting (XSS) vulnerabilities.
+Overview
+This repository demonstrates penetration testing techniques against Damn Vulnerable Web Application (DVWA), with a focus on Reflected and Stored Cross-Site Scripting (XSS) vulnerabilities.  
+The project highlights practical exploitation methods, filter bypass strategies, and secure coding analysis.
 
 
-Key Highlights
 
-1. Exploited Reflected XSS at Low, Medium, and High security levels
-
-2. Bypassed filters using case manipulation and alternative HTML tags
- 
-3. Demonstrated Stored XSS persistence in guestbook entries
- 
- 4. Analyzed DVWA backend code to understand flawed sanitization
- 
-5.  Documented findings with screenshots and payloads
-
- 
- Skills Demonstrated
- 
-1. Web application penetration testing
-
-2. Secure coding analysis
-
-3. Exploit development
-
-4. OWASP Top 10 awareness
+Table of Contents
+- [Installation & Setup](installation--setup)
+- [Exploitation Techniques](exploitation-techniques)
+- [Results & Screenshots](results--screenshots)
+- [Skills Demonstrated](skills-demonstrated)
+- [Disclaimer](disclaimer)
 
 
-Why It Matters
 
-This project shows practical ability to identify, exploit, and explain web vulnerabilities — a critical skill for cybersecurity roles 
-
-in penetration testing, red teaming, and secure development.
-
-Documentation
-
-Full lab report available here: [Cross Site Scripting Lab](docs/CrossSiteScriptingLab.pdf)
+Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/tonynnaemeka70-web/DVWA-XSS-Exploitation-lab
 
 
-Screenshots
+   Install DVWA locally:
 
-Key exploit demonstrations are available in the `screenshots/` folder.
+Prerequisites: PHP, MySQL, Apache
+
+Configure DVWA security levels via config.inc.php
+
+Launch DVWA in your browser and navigate to the XSS modules.
+
 
 
 
