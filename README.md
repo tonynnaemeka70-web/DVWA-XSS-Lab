@@ -37,6 +37,9 @@ Launch DVWA in your browser and navigate to the XSS modules.
 
 
 
+
+
+
 Exploitation Techniques
 Reflected XSS
 
@@ -56,10 +59,16 @@ Reviewed DVWA source code to identify flawed sanitization logic.
 
 
 
+
+
+
 Results & Screenshots
 Full lab report: Cross Site Scripting Lab (see /docs)
 
 Key exploit demonstrations: available in the /screenshots folder
+
+
+
 
 
 
@@ -71,6 +80,9 @@ Exploit development
 Secure coding analysis
 
 OWASP Top 10 awareness
+
+
+
 
 
 
