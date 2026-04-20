@@ -23,9 +23,11 @@ Installation & Setup
    git clone https://github.com/tonynnaemeka70-web/DVWA-XSS-Exploitation-lab
 
 
- 
+   
 
-   Install DVWA locally:
+
+ 
+ Install DVWA locally:
 
 Prerequisites: PHP, MySQL, Apache
 
