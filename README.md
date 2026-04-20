@@ -82,6 +82,16 @@ Secure coding analysis
 OWASP Top 10 awareness
 
 
+Technologies Used
+- DVWA (Damn Vulnerable Web Application)** – target application for XSS testing
+- PHP & MySQL – backend stack powering DVWA
+- Apache – web server hosting DVWA
+- Burp Suite – interception, payload testing, and filter bypass analysis
+- Browser Developer Tools** – payload injection and debugging
+
+
+
+
 
 
 
