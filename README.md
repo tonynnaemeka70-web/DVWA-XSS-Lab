@@ -37,4 +37,47 @@ Launch DVWA in your browser and navigate to the XSS modules.
 
 
 
+Exploitation Techniques
+Reflected XSS
+
+Demonstrated exploitation across DVWA’s Low, Medium, and High security configurations.
+
+Stored XSS
+
+Persistence achieved via guestbook entries.
+
+Filter Bypass
+
+Case manipulation, alternative HTML tags, and encoding techniques.
+
+Backend Analysis
+
+Reviewed DVWA source code to identify flawed sanitization logic.
+
+
+
+Results & Screenshots
+Full lab report: Cross Site Scripting Lab (see /docs)
+
+Key exploit demonstrations: available in the /screenshots folder
+
+
+
+Skills Demonstrated
+Web application penetration testing
+
+Exploit development
+
+Secure coding analysis
+
+OWASP Top 10 awareness
+
+
+
+Disclaimer
+This project is for educational purposes only.
+Do not attempt these techniques on systems without explicit authorization.
+
+
+
 
