@@ -9,11 +9,11 @@ The project highlights practical exploitation methods, filter bypass strategies,
 
 
 Table of Contents
-- [Installation & Setup](installation--setup)
-- [Exploitation Techniques](exploitation-techniques)
-- [Results & Screenshots](results--screenshots)
-- [Skills Demonstrated](skills-demonstrated)
-- [Disclaimer](disclaimer)
+- [Installation & Setup](installation--setup
+- [Exploitation Techniques](exploitation-techniques
+- [Results & Screenshots](results--screenshots
+- [Skills Demonstrated](skills-demonstrated
+- [Disclaimer](disclaimer
 
 
 
